@@ -72,7 +72,6 @@ switch(usernum) {
         exit(0);
         break;
 
-}
-}
-
+    }
+  }
 }
